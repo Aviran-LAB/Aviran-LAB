@@ -40,7 +40,7 @@ My work spans analytics and automation, building pipelines and workflows that ma
 
 ## 👨‍💻 Portfolio Projects
 
-Explore [My Portfolio](https://your-portfolio-link.com).
+Explore 
 
 ---
 
