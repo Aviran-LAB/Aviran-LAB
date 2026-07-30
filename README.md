@@ -105,16 +105,3 @@ Check out my detailed resume [here]([https://your-resume-link.com](https://www.l
 Let's connect and discuss potential opportunities! Reach out to me via [email](mailto:your-email@example.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Aviran-LAB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aviran-LAB&show_icons=true&theme=transparent)
-![Aviran-LAB's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviran-LAB&layout=compact&theme=transparent)
-```eof
-
-### Important Final Step:
-1. Copy the code above.
-2. In your GitHub repository `README.md` editor, **replace everything** with this new code.
-3. **Change the links:** Look for `your-portfolio-link.com`, `your-resume-link.com`, and `your-email@example.com` and replace them with your actual details.
-4. Click **Commit changes**.
-5. Once you commit, navigate to `[github.com/Aviran-LAB](https://github.com/Aviran-LAB)` and your profile will look just like the one you requested!
