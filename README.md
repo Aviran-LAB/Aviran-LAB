@@ -96,7 +96,7 @@ Explore
 
 ## Resume
 
-Check out my detailed resume [here](https://your-resume-link.com) for more information about my experience, skills and achievements.
+Check out my detailed resume [here]([https://your-resume-link.com](https://www.linkedin.com/in/aviran-gonzalez-795025421/)) for more information about my experience, skills and achievements.
 
 ---
 
