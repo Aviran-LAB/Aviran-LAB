@@ -44,54 +44,32 @@ Explore
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### ⚙️ Data Transformation & Orchestration
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" width="40" height="40" alt="Airflow" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dbt/dbt.png" width="40" height="40" alt="dbt" />
-</p>
-
-### 📊 Data Science and Machine Learning
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" width="40" height="40" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matplotlib/matplotlib.png" width="40" height="40" alt="Matplotlib" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png" width="40" height="40" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seaborn/seaborn.png" width="40" height="40" alt="Seaborn" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="40" height="40" alt="Scikit-Learn" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40" alt="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" width="40" height="40" alt="GCP" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/microsoft-sql-server/microsoft-sql-server.png" width="40" height="40" alt="SQL Server" />
-</p>
-
----
-
 ## Education
 
+## 🛠️ Skills & Technologies
+
+### 📊 Data Science and Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases & Microsoft Ecosystem
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Business Central](https://img.shields.io/badge/Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
 ## 🎓 Certifications
 
-| Certification | Platform |
-| :--- | :--- |
-| **Data Science Bootcamp 2026** | Udemy |
+| Certification | Platform | Status|
+| :--- | :--- | :--- |
+| **Data Science Bootcamp 2026** | Udemy | In Progress | 
 | **Data Analyst Bootcamp** | Udemy |
 | **Ultimate MySQL Bootcamp** | Udemy |
-| **Power BI & DAX Advanced** | Udemy | In Progress|
+| **Power BI & DAX Advanced** | Udemy | In Progress | 
 ---
 
 ## Resume
