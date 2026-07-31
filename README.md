@@ -1,13 +1,11 @@
 # Hi there 👋, I'm Aviran
 
-I specialize in **automated data pipelines** and **self-updating analytics systems** that eliminate manual reporting work.
+I transform manual reporting processes into **automated, self-sustaining data ecosystems** that deliver real-time insights.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aviran-LAB&color=blueviolet)](https://github.com/Aviran-LAB)
 
 ---
-
-## Table of Contents
-
+# Table of Contents
 * [About Me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
 * [Skills & Technologies](#skills--technologies)
@@ -15,7 +13,6 @@ I specialize in **automated data pipelines** and **self-updating analytics syste
 * [Certifications](#certifications)
 * [Resume](#resume)
 * [Contact](#contact)
-
 ---
 
 ## About Me
