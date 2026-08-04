@@ -18,13 +18,13 @@ I am a data professional who bridges the gap between core operational databases 
 
 ### My Approach:
 1. **Identify repetitive data tasks** → Manual reporting, data pulls, dashboard updates
-2. **Build automated pipelines** → Python scripts + APIs + workflow automation
+2. **Build automated pipelines** → Power apps + workflow automation
 3. **Deliver fresh insights automatically** → Dashboards that update themselves
 
 ### Example: Automated Analytics Pipeline
 * using Power apps for gatering Data (less manual work)
 * Automauted Updates and visualizations
-* 100% automated using GitHub Actions
+* 100% automated Power BI Dashboards. 
 
 **Same methodology works for:** Sales reporting, marketing analytics, financial dashboards, customer insights – any business that needs fresh data regularly.
 
