@@ -14,18 +14,16 @@ I transform manual reporting processes into **automated, self-sustaining data ec
 
 ## About Me
 
-My work spans analytics and automation, building pipelines and workflows that make data-driven decisions faster and smarter.
+I am a data professional who bridges the gap between core operational databases and predictive analytics, and transforming operational data into business intelligence, I am currently scaling my expertise into Advanced Analytics and Machine Learning
 
 ### My Approach:
 1. **Identify repetitive data tasks** → Manual reporting, data pulls, dashboard updates
 2. **Build automated pipelines** → Python scripts + APIs + workflow automation
-3. **Deploy self-maintaining systems** → GitHub Actions, scheduled jobs, error handling, ETL workflows
-4. **Deliver fresh insights automatically** → Dashboards that update themselves
+3. **Deliver fresh insights automatically** → Dashboards that update themselves
 
 ### Example: Automated Analytics Pipeline
-* Fetches data from API daily (zero manual work)
-* Cleans & processes 500+ records automatically
-* Updates predictive models and visualizations
+* using Power apps for gatering Data (less manual work)
+* Automauted Updates and visualizations
 * 100% automated using GitHub Actions
 
 **Same methodology works for:** Sales reporting, marketing analytics, financial dashboards, customer insights – any business that needs fresh data regularly.
@@ -67,7 +65,7 @@ My work spans analytics and automation, building pipelines and workflows that ma
 
 ## Resume
 
-Check out my detailed resume [here](https://www.linkedin.com/in/aviran-gonzalez-795025421/)) for more information about my experience, skills and achievements.
+Check out my detailed resume [here](https://www.linkedin.com/in/aviran-gonzalez-795025421/) for more information about my experience, skills and achievements.
 
 ---
 
