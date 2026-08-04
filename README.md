@@ -2,8 +2,6 @@
 
 I transform manual reporting processes into **automated, self-sustaining data ecosystems** that deliver real-time insights.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aviran-LAB&color=blueviolet)](https://github.com/Aviran-LAB)
-
 ---
 # Table of Contents
 * [About Me](#about-me)
@@ -36,7 +34,7 @@ My work spans analytics and automation, building pipelines and workflows that ma
 
 ## 👨‍💻 Portfolio Projects
 
-Explore 
+
 
 ---
 
@@ -44,11 +42,10 @@ Explore
 
 ## 🛠️ Skills & Technologies
 
-### 📊 Data Science and Machine Learning
+### 📊 Data Analysis and Data Scientist
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### 🗄️ Databases & Microsoft Ecosystem
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -70,12 +67,12 @@ Explore
 
 ## Resume
 
-Check out my detailed resume [here]([https://your-resume-link.com](https://www.linkedin.com/in/aviran-gonzalez-795025421/)) for more information about my experience, skills and achievements.
+Check out my detailed resume [here](https://www.linkedin.com/in/aviran-gonzalez-795025421/)) for more information about my experience, skills and achievements.
 
 ---
 
 ## Contact
 
-Let's connect and discuss potential opportunities! Reach out to me via [email](mailto:your-email@example.com)
+Let's connect and discuss potential opportunities! Reach out to me via [email](mailto:your-avirangonzalezcruz@hotmailcom)
 
 ---
