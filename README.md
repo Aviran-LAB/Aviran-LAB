@@ -10,6 +10,7 @@ I transform manual reporting processes into **automated, self-sustaining data ec
 * [Skills & Technologies](#skills--technologies)
 * [Education](#education)
 * [Certifications](#certifications)
+* [Resume](#resume)
 * [Contact](#contact)
 ---
 
