@@ -3,6 +3,7 @@
 I transform manual reporting processes into **automated, self-sustaining data ecosystems** that deliver real-time insights.
 
 ---
+
 # Table of Contents
 * [About Me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
@@ -30,9 +31,17 @@ I am a data professional who bridges the gap between core operational databases 
 
 ---
 
-## 👨‍💻 Portfolio Projects
+## 👨‍💻 Portfolio Projects 
 
+### 🚜 Agricultural Production Yield Tracking
+* **Overview:** Designed an end-to-end data pipeline and business intelligence solution to track agricultural packing operations, size distributions, and weekly yield analytics.
+* **Architecture:** 
+  * **Backend:** Relational star schema model built using MySQL.
+  * **Visualization:** Interactive Power BI dashboard featuring custom DAX measures for yield metrics.
+* **Impact:** Eliminated manual spreadsheet reporting to provide real-time operational visibility.
+* **Repository:** [View on GitHub](https://github.com/Aviran-LAB/Production-Yield-Tracking)
 
+<!-- Add your next project here following the same format -->
 
 ---
 
